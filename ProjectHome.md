@@ -1,0 +1,3 @@
+**EasyUbuntu** is an easy to use (duh!) script that gives the Ubuntu user the most commonly requested apps, codecs, and tweaks that are not found in the base distribution - all with a few clicks of your mouse.
+
+**EasyUbuntu** is so easy to use in fact, that even your grandma could be playing encrypted dvds, streaming Windows Media, and sporting the latest Nvidia or Ati drivers in minutes! And yes, **EasyUbuntu** is GPL.
